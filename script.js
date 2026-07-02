@@ -62,13 +62,13 @@ function givePosts(data, postsInfo, requiredPosts) {
 
                         <div class="postBottom">
 
-                            <span class="upvotes"><img src="upArrow.png" alt="" width="10px" height="10px">${giveCount(post.score)}</span>
-                            <span class="comments"><img src="comment.png" alt="" width="12px" height="11px">${giveCount(post.num_comments)}</span>
+                            <span class="upvotes"><img src="Images\\upArrow.png" alt="" width="10px" height="10px">${giveCount(post.score)}</span>
+                            <span class="comments"><img src="Images\\comment.png" alt="" width="12px" height="11px">${giveCount(post.num_comments)}</span>
                             <span class="author">u/${post.author}</span>
                             <span class="postTime">${post.created}</span>
 
-                            <img src="star-svgrepo-com.svg" alt="" width="15px" height="15px" class="star">
-                            <a href="${post.url}" class="share"><img src="share-svgrepo-com.svg" alt="" width="15px" height="15px"></a>
+                            <img src="Images\\star-svgrepo-com.svg" alt="" width="15px" height="15px" class="star">
+                            <a href="${post.url}" class="share"><img src="Images\\share-svgrepo-com.svg" alt="" width="15px" height="15px"></a>
                         </div>
         `;
 
@@ -106,14 +106,14 @@ function giveSkeletonCard(subredditName) {
                         <div class="info">    
                         
                             <div class="logoName">
-                                <img src="reddit-social-media-communication-network-internet-connection-svgrepo-com.svg" alt=""width="25px" height="25px">
+                                <img src="Images\\reddit-social-media-communication-network-internet-connection-svgrepo-com.svg" alt=""width="25px" height="25px">
                                 <p class="subredditName">${subredditName}</p>
                             </div>
 
                             <div class="utilities">
-                                <img src="up-square-svgrepo-com (1).svg" alt=""  width="12px" height="12px" class="collapse">
-                                <img src="refresh-square-2-svgrepo-com.svg" alt=""  width="12px" height="12px" class="refresh">
-                                <img src="bin-xmark-fill-svgrepo-com.svg" alt=""  width="12px" height="12px" class="remove">
+                                <img src="Images\\up-square-svgrepo-com (1).svg" alt=""  width="12px" height="12px" class="collapse">
+                                <img src="Images\\refresh-square-2-svgrepo-com.svg" alt=""  width="12px" height="12px" class="refresh">
+                                <img src="Images\\bin-xmark-fill-svgrepo-com.svg" alt=""  width="12px" height="12px" class="remove">
                             </div>
 
                         </div>
@@ -121,7 +121,7 @@ function giveSkeletonCard(subredditName) {
                         <div class="viewsPosts">
                             
                             <div class="views">
-                                 <img src="person-team-svgrepo-com.svg" alt="" width="15px" height="15px"> 
+                                 <img src="Images\\person-team-svgrepo-com.svg" alt="" width="15px" height="15px"> 
                                  <small class="totalUsers">142K</small>
                             </div>
 
@@ -416,14 +416,14 @@ function restoreCardsFromStorage(cardRow) {
                         <div class="info">    
                         
                             <div class="logoName">
-                                <img src="reddit-social-media-communication-network-internet-connection-svgrepo-com.svg" alt=""width="25px" height="25px">
+                                <img src="Images\\reddit-social-media-communication-network-internet-connection-svgrepo-com.svg" alt=""width="25px" height="25px">
                                 <p class="subredditName">${key}</p>
                             </div>
 
                             <div class="utilities">
-                                <img src="up-square-svgrepo-com (1).svg" alt=""  width="12px" height="12px" class="collapse">
-                                <img src="refresh-square-2-svgrepo-com.svg" alt=""  width="12px" height="12px" class="refresh">
-                                <img src="bin-xmark-fill-svgrepo-com.svg" alt=""  width="12px" height="12px" class="remove">
+                                <img src="Images\\up-square-svgrepo-com (1).svg" alt=""  width="12px" height="12px" class="collapse">
+                                <img src="Images\\refresh-square-2-svgrepo-com.svg" alt=""  width="12px" height="12px" class="refresh">
+                                <img src="Images\\bin-xmark-fill-svgrepo-com.svg" alt=""  width="12px" height="12px" class="remove">
                             </div>
 
                         </div>
@@ -431,7 +431,7 @@ function restoreCardsFromStorage(cardRow) {
                         <div class="viewsPosts">
                             
                             <div class="views">
-                                 <img src="person-team-svgrepo-com.svg" alt="" width="15px" height="15px"> 
+                                 <img src="Images\\person-team-svgrepo-com.svg" alt="" width="15px" height="15px"> 
                                  <small class="totalUsers">${cardData.users}</small>
                             </div>
 
@@ -488,13 +488,13 @@ function restoreCardsFromStorage(cardRow) {
 
                         <div class="postBottom">
 
-                            <span class="upvotes"><img src="upArrow.png" alt="" width="10px" height="10px">${post.upvotes}</span>
-                            <span class="comments"><img src="comment.png" alt="" width="12px" height="11px">${post.comments}</span>
+                            <span class="upvotes"><img src="Images\\upArrow.png" alt="" width="10px" height="10px">${post.upvotes}</span>
+                            <span class="comments"><img src="Images\\comment.png" alt="" width="12px" height="11px">${post.comments}</span>
                             <span class="author">u/${post.author}</span>
                             <span class="postTime">${post.time}</span>
 
-                            <img src="star-svgrepo-com.svg" alt="" width="15px" height="15px" class="star">
-                            <a href="${post.url}" class="share"><img src="share-svgrepo-com.svg" alt="" width="15px" height="15px"></a>
+                            <img src="Images\\star-svgrepo-com.svg" alt="" width="15px" height="15px" class="star">
+                            <a href="${post.url}" class="share"><img src="Images\\share-svgrepo-com.svg" alt="" width="15px" height="15px"></a>
                         </div>
                     `;
 
@@ -581,13 +581,13 @@ async function categoryChange(e) {
 
                     <div class="postBottom">
 
-                        <span class="upvotes"><img src="upArrow.png" alt="" width="10px" height="10px">${postObj.upvotes}</span>
-                        <span class="comments"><img src="comment.png" alt="" width="12px" height="11px">${postObj.comments}</span>
+                        <span class="upvotes"><img src="Images\\upArrow.png" alt="" width="10px" height="10px">${postObj.upvotes}</span>
+                        <span class="comments"><img src="Images\\comment.png" alt="" width="12px" height="11px">${postObj.comments}</span>
                         <span class="author">u/${postObj.author}</span>
                         <span class="postTime">${postObj.time}</span>
 
-                        <img src="star-svgrepo-com (1).svg" alt="" width="15px" height="15px" class="star">
-                        <a href="${postObj.url}" class="share"><img src="share-svgrepo-com.svg" alt="" width="15px" height="15px"></a>
+                        <img src="Images\\star-svgrepo-com (1).svg" alt="" width="15px" height="15px" class="star">
+                        <a href="${postObj.url}" class="share"><img src="Images\\share-svgrepo-com.svg" alt="" width="15px" height="15px"></a>
                     </div>
                 `;
 
@@ -698,13 +698,13 @@ async function addMorePosts(e) {
 
                         <div class="postBottom">
 
-                            <span class="upvotes"><img src="upArrow.png" alt="" width="10px" height="10px">${giveCount(post.score)}</span>
-                            <span class="comments"><img src="comment.png" alt="" width="12px" height="11px">${giveCount(post.num_comments)}</span>
+                            <span class="upvotes"><img src="Images\\upArrow.png" alt="" width="10px" height="10px">${giveCount(post.score)}</span>
+                            <span class="comments"><img src="Images\\comment.png" alt="" width="12px" height="11px">${giveCount(post.num_comments)}</span>
                             <span class="author">u/${post.author}</span>
                             <span class="postTime">${post.created}</span>
 
-                            <img src="star-svgrepo-com.svg" alt="" width="15px" height="15px" class="star">
-                            <a href="${post.url}" class="share"><img src="share-svgrepo-com.svg" alt="" width="15px" height="15px"></a>
+                            <img src="Images\\star-svgrepo-com.svg" alt="" width="15px" height="15px" class="star">
+                            <a href="${post.url}" class="share"><img src="Images\\share-svgrepo-com.svg" alt="" width="15px" height="15px"></a>
                         </div>
         `;
 
