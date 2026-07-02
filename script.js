@@ -352,7 +352,7 @@ function starredMarkUnmark(e) {
         if (postClicked.starred === false) {
 
             post.remove();
-            post.querySelector('.star').src = 'star-svgrepo-com (1).svg';
+            post.querySelector('.star').src = 'Images\\star-svgrepo-com (1).svg';
             e.currentTarget.querySelector('.starred').append(post);
 
 
@@ -366,7 +366,7 @@ function starredMarkUnmark(e) {
         else {
 
             post.remove();
-            post.querySelector('.star').src = 'star-svgrepo-com.svg';
+            post.querySelector('.star').src = 'Images\\star-svgrepo-com.svg';
             e.currentTarget.querySelector('.posts').append(post);
 
 
@@ -499,7 +499,7 @@ function restoreCardsFromStorage(cardRow) {
                     `;
 
             if (post.starred) {
-                p.querySelector('.star').src = "star-svgrepo-com (1).svg";
+                p.querySelector('.star').src = "Images\\star-svgrepo-com (1).svg";
                 card.querySelector('.starred').append(p);
             }
 
