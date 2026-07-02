@@ -530,7 +530,7 @@ function restoreCardsFromStorage(cardRow) {
         document.body.classList.add("dark");
 
         modeText.textContent = "Dark";
-        modeIcon.src = "moon.svg";
+        modeIcon.src = "Images\\moon.svg";
 
     }
 }
@@ -783,14 +783,14 @@ function toggleTheme() {
     if (document.body.classList.contains("dark")) {
 
         modeText.textContent = "Dark";
-        modeIcon.src = "moon.svg";
+        modeIcon.src = "Images\\moon.svg";
 
     }
 
     else {
 
         modeText.textContent = "Light";
-        modeIcon.src = "sun.svg";
+        modeIcon.src = "Images\\sun.svg";
 
     }
 
