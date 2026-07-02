@@ -1,0 +1,112 @@
+[
+  {
+    "id": "t3_21",
+    "flair": "News",
+    "title": "React 20 Released with Partial Hydration and Better Server Components",
+    "author": "react_team",
+    "score": 38400,
+    "num_comments": 2140,
+    "created": "1d",
+    "url": "https://react.dev",
+    "domain": "react.dev"
+  },
+  {
+    "id": "t3_22",
+    "flair": "Discussion",
+    "title": "Why Are Interviews Still Obsessed with LeetCode?",
+    "author": "frustrated_dev",
+    "score": 31700,
+    "num_comments": 3680,
+    "created": "2d",
+    "url": "https://reddit.com",
+    "domain": "reddit.com"
+  },
+  {
+    "id": "t3_23",
+    "flair": "Show HN",
+    "title": "I Built My Own Operating System in C++",
+    "author": "kernel_dev",
+    "score": 28400,
+    "num_comments": 1230,
+    "created": "3d",
+    "url": "https://github.com",
+    "domain": "github.com"
+  },
+  {
+    "id": "t3_24",
+    "flair": "Tutorial",
+    "title": "Deep Dive into JavaScript Event Loop and Microtasks",
+    "author": "async_master",
+    "score": 24800,
+    "num_comments": 970,
+    "created": "1d",
+    "url": "https://developer.mozilla.org",
+    "domain": "developer.mozilla.org"
+  },
+  {
+    "id": "t3_25",
+    "flair": "News",
+    "title": "TypeScript Becomes the Most Loved Language in Developer Survey",
+    "author": "ts_team",
+    "score": 22100,
+    "num_comments": 811,
+    "created": "2d",
+    "url": "https://typescriptlang.org",
+    "domain": "typescriptlang.org"
+  },
+  {
+    "id": "t3_26",
+    "flair": "Discussion",
+    "title": "Will AI Replace Junior Developers or Just Change the Job?",
+    "author": "future_dev",
+    "score": 20500,
+    "num_comments": 2490,
+    "created": "3d",
+    "url": "https://reddit.com",
+    "domain": "reddit.com"
+  },
+  {
+    "id": "t3_27",
+    "flair": "Show HN",
+    "title": "Built a Browser-Based IDE Using Only Vanilla JavaScript",
+    "author": "frontend_freak",
+    "score": 18700,
+    "num_comments": 643,
+    "created": "2d",
+    "url": "https://github.com",
+    "domain": "github.com"
+  },
+  {
+    "id": "t3_28",
+    "flair": "Tutorial",
+    "title": "Build Your Own Reddit Client with HTML, CSS and JavaScript",
+    "author": "plain_js",
+    "score": 17400,
+    "num_comments": 511,
+    "created": "1d",
+    "url": "https://youtube.com",
+    "domain": "youtube.com"
+  },
+  {
+    "id": "t3_29",
+    "flair": "Question",
+    "title": "What's the Best Roadmap to Become Internship Ready in Six Months?",
+    "author": "intern_hunter",
+    "score": 16200,
+    "num_comments": 1320,
+    "created": "2d",
+    "url": "https://roadmap.sh",
+    "domain": "roadmap.sh"
+  },
+  {
+    "id": "t3_30",
+    "flair": "News",
+    "title": "CSS Masonry Layout Officially Lands Across Major Browsers",
+    "author": "css_lover",
+    "score": 14900,
+    "num_comments": 480,
+    "created": "1d",
+    "url": "https://developer.chrome.com",
+    "domain": "developer.chrome.com"
+  }
+]

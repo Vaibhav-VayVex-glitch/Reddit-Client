@@ -1,0 +1,112 @@
+[
+  {
+    "id": "t3_1",
+    "flair": "News",
+    "title": "TypeScript 5.5 Released with Improved Type Narrowing Features",
+    "author": "DanielRose",
+    "score": 15200,
+    "num_comments": 742,
+    "created": "2h",
+    "url": "https://devblogs.microsoft.com",
+    "domain": "microsoft.com"
+  },
+  {
+    "id": "t3_2",
+    "flair": "Discussion",
+    "title": "Is Bun Finally Ready for Production Use in 2026?",
+    "author": "server_side",
+    "score": 11800,
+    "num_comments": 931,
+    "created": "4h",
+    "url": "https://bun.sh",
+    "domain": "bun.sh"
+  },
+  {
+    "id": "t3_3",
+    "flair": "Show HN",
+    "title": "Built a Markdown Note App with Zero Dependencies",
+    "author": "plain_js",
+    "score": 9600,
+    "num_comments": 412,
+    "created": "6h",
+    "url": "https://github.com",
+    "domain": "github.com"
+  },
+  {
+    "id": "t3_4",
+    "flair": "Tutorial",
+    "title": "Understanding Closures and Promises with Visual Examples",
+    "author": "js_guru",
+    "score": 8100,
+    "num_comments": 320,
+    "created": "8h",
+    "url": "https://developer.mozilla.org",
+    "domain": "developer.mozilla.org"
+  },
+  {
+    "id": "t3_5",
+    "flair": "Question",
+    "title": "Should Beginners Learn React After Vanilla JavaScript?",
+    "author": "beginner123",
+    "score": 6700,
+    "num_comments": 601,
+    "created": "10h",
+    "url": "https://reddit.com",
+    "domain": "reddit.com"
+  },
+  {
+    "id": "t3_6",
+    "flair": "News",
+    "title": "CSS Masonry Layout Lands in Chrome Stable",
+    "author": "css_lover",
+    "score": 12400,
+    "num_comments": 517,
+    "created": "3h",
+    "url": "https://developer.chrome.com",
+    "domain": "developer.chrome.com"
+  },
+  {
+    "id": "t3_7",
+    "flair": "Discussion",
+    "title": "Why Are Interviews Still So LeetCode Focused?",
+    "author": "frustrated_dev",
+    "score": 14300,
+    "num_comments": 1840,
+    "created": "5h",
+    "url": "https://reddit.com",
+    "domain": "reddit.com"
+  },
+  {
+    "id": "t3_8",
+    "flair": "Show HN",
+    "title": "I Built a Browser-Based Sorting Visualizer Using Canvas",
+    "author": "algo_visualizer",
+    "score": 7200,
+    "num_comments": 188,
+    "created": "7h",
+    "url": "https://github.com",
+    "domain": "github.com"
+  },
+  {
+    "id": "t3_9",
+    "flair": "Tutorial",
+    "title": "Deep Dive into the Event Loop and Microtasks",
+    "author": "async_master",
+    "score": 5300,
+    "num_comments": 267,
+    "created": "11h",
+    "url": "https://developer.mozilla.org",
+    "domain": "developer.mozilla.org"
+  },
+  {
+    "id": "t3_10",
+    "flair": "Question",
+    "title": "Frontend vs Backend: Which Path Should Beginners Choose?",
+    "author": "career_switch",
+    "score": 4100,
+    "num_comments": 392,
+    "created": "12h",
+    "url": "https://stackoverflow.com",
+    "domain": "stackoverflow.com"
+  }
+]

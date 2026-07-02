@@ -1,0 +1,112 @@
+[
+  {
+    "id": "t3_21",
+    "flair": "Discussion",
+    "title": "What's your favorite ES2024 JavaScript feature so far?",
+    "author": "js_daily",
+    "score": 42,
+    "num_comments": 9,
+    "created": "2m",
+    "url": "https://developer.mozilla.org",
+    "domain": "developer.mozilla.org"
+  },
+  {
+    "id": "t3_22",
+    "flair": "Showcase",
+    "title": "Built my first expense tracker using HTML, CSS and JavaScript",
+    "author": "frontend_rookie",
+    "score": 118,
+    "num_comments": 21,
+    "created": "5m",
+    "url": "https://github.com",
+    "domain": "github.com"
+  },
+  {
+    "id": "t3_23",
+    "flair": "Question",
+    "title": "Should I learn TypeScript immediately after React?",
+    "author": "code_seeker",
+    "score": 61,
+    "num_comments": 18,
+    "created": "11m",
+    "url": "https://typescriptlang.org",
+    "domain": "typescriptlang.org"
+  },
+  {
+    "id": "t3_24",
+    "flair": "News",
+    "title": "Node.js releases a new LTS version with performance improvements",
+    "author": "node_updates",
+    "score": 204,
+    "num_comments": 37,
+    "created": "18m",
+    "url": "https://nodejs.org",
+    "domain": "nodejs.org"
+  },
+  {
+    "id": "t3_25",
+    "flair": "Tutorial",
+    "title": "Understanding Closures with simple real-world examples",
+    "author": "learn_js",
+    "score": 95,
+    "num_comments": 16,
+    "created": "24m",
+    "url": "https://javascript.info",
+    "domain": "javascript.info"
+  },
+  {
+    "id": "t3_26",
+    "flair": "Help",
+    "title": "My Fetch API request works locally but fails after deployment",
+    "author": "bug_fixer",
+    "score": 33,
+    "num_comments": 12,
+    "created": "31m",
+    "url": "https://stackoverflow.com",
+    "domain": "stackoverflow.com"
+  },
+  {
+    "id": "t3_27",
+    "flair": "Discussion",
+    "title": "How do you organize utility functions in larger frontend projects?",
+    "author": "clean_coder",
+    "score": 74,
+    "num_comments": 26,
+    "created": "38m",
+    "url": "https://dev.to",
+    "domain": "dev.to"
+  },
+  {
+    "id": "t3_28",
+    "flair": "Question",
+    "title": "Any good APIs to practice Fetch and Async/Await?",
+    "author": "api_explorer",
+    "score": 52,
+    "num_comments": 19,
+    "created": "47m",
+    "url": "https://publicapis.dev",
+    "domain": "publicapis.dev"
+  },
+  {
+    "id": "t3_29",
+    "flair": "Showcase",
+    "title": "Created a responsive Reddit client using Vanilla JavaScript",
+    "author": "web_builder",
+    "score": 173,
+    "num_comments": 41,
+    "created": "55m",
+    "url": "https://github.com",
+    "domain": "github.com"
+  },
+  {
+    "id": "t3_30",
+    "flair": "News",
+    "title": "Chrome introduces new DevTools features for debugging web apps",
+    "author": "browser_news",
+    "score": 287,
+    "num_comments": 54,
+    "created": "1h",
+    "url": "https://developer.chrome.com",
+    "domain": "developer.chrome.com"
+  }
+]
